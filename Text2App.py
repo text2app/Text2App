@@ -10,7 +10,7 @@ import numpy as np
 from bs4 import BeautifulSoup
 import shutil
 import subprocess
-from training_RoBERTa.model import *
+from training_RoBERTa.model import * 
 
 single_tokens = ['<green>', '<time1>', '<textboxtext2>', '<blue>', '<magenta>', '<time3>', '<timepicker>', '<time2>', '<textboxtext1>', '<passwordtextbox>', '<bounce>', '<text2speech>', '<start>', '<black>', '<ball>', '<red>', '<accelerometer>', '<yellow>', '<cyan>', '<orange>', '<pink>', '<light_gray>', '<gray>', '<dark_gray>', '<stop>', '<motion>', '<textboxtext3>', '<textbox>']
 
